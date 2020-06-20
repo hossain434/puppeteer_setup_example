@@ -52,9 +52,13 @@ No support for cross-browser testing: One of the things that we’d like to be a
 Immature community: Puppeteer is still a very young framework and the community is still growing, but it’s not mature, and hence it’s somewhat hard to find relevant resources for help across the web.
 
 Puppeteer Setup:
+
 Puppeteer
+
 npm -y
+
 npm install puppeteer --save-dev
+
 To run: node newtest.js
 
 https://flaviocopes.com/puppeteer/
